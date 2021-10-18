@@ -1,5 +1,5 @@
 
-![image](./profile-image.png)
+![image](./profile-image-new.png)
 
 ### I 💙 Open Source
 
