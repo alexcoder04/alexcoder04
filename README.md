@@ -1,5 +1,5 @@
 
-![image](./profile-image-new.png)
+![image](./profile-image.png)
 
  - ⌨️ **Favorite programming language**: [Python](https://python.org/) & POSIX Shell
  - 🐧 **Favorite Linux distro**: [Artix](https://artixlinux.org/)
