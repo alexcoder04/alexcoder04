@@ -6,5 +6,3 @@ At the moment, working on [rfap](https://github.com/alexcoder04/rfap),
 [librfap](https://github.com/alexcoder04/librfap) and
 [rfap-pycli](https://github.com/alexcoder04/rfap-pycli).
 
-@BoettcherDasOriginal
-
