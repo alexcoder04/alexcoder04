@@ -1,10 +1,7 @@
 
-![image](./profile-image-04.png)
+![profile picture](./profile-picture/20220101.png)
 
-At the moment, working on [rfap](https://github.com/alexcoder04/rfap),
-[rfap-go-server](https://github.com/alexcoder04/rfap-go-server),
-[librfap](https://github.com/alexcoder04/librfap) and
-[rfap-pycli](https://github.com/alexcoder04/rfap-pycli).
+### At the moment, working on [rfap](https://github.com/alexcoder04/rfap), [rfap-go-server](https://github.com/alexcoder04/rfap-go-server) and related projects
 
 [![overview](https://github.com/alexcoder04/github-stats/blob/master/generated/overview.svg)](https://github.com/alexcoder04?tab=repositories)
 [![languages](https://github.com/alexcoder04/github-stats/blob/master/generated/languages.svg)](https://github.com/alexcoder04?tab=repositories)
