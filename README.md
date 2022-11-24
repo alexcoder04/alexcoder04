@@ -1,7 +1,7 @@
 
 Hello there, I'm alexcoder04, a hobbyist open-source programmer.
 
- - **📝 Favourite programming lanaguages:** Python, Shell, Go
+ - **📝 Favourite programming languages:** Python, Shell, Go
  - **🖥️ My setup:** Linux Mint, VSCodium, Neovim, Firefox
  - **🗒️ What I value:** Openness, Simplicity, Minimalism
 
