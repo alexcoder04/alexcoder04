@@ -5,6 +5,7 @@ Hello there, I'm alexcoder04, a hobbyist open-source programmer.
 
  - **Mail:** [alexcoder04@protonmail.com](mailto:alexcoder04@protonmail.com)
  - **Website:** [alexcoder04.github.io](https://alexcoder04.github.io/)
+ - **Secondary Account:** [@ac04-dump](https://github.com/ac04-dump)
  - **GitLab:** [@alexcoder04](https://gitlab.com/alexcoder04)
  - **Mastodon:** [@alexcoder04@techhub.social](https://techhub.social/@alexcoder04)
 
