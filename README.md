@@ -8,6 +8,7 @@ Hello there, I'm alexcoder04, a hobbyist open-source programmer.
  - **Secondary Account:** [@ac04-dump](https://github.com/ac04-dump)
  - **GitLab:** [@alexcoder04](https://gitlab.com/alexcoder04)
  - **Mastodon:** [@alexcoder04@techhub.social](https://techhub.social/@alexcoder04)
+ - **Discord:** [@alexcoder04#8004](https://discordapp.com/users/916385283338022912)
 
 ---
 
