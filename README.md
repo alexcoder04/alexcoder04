@@ -1,6 +1,14 @@
 
 Hello there, I'm alexcoder04, a hobbyist open-source programmer.
 
+Currently I have a lot of other things to do, so I'm doing not a lot of programming. But I'm still here )
+
+---
+
+```
+(c) "This page is ugly by intention, not by lack of skill" - me
+```
+
 ---
 
  - **Mail:** [alexcoder04@protonmail.com](mailto:alexcoder04@protonmail.com)
