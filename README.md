@@ -1,7 +1,7 @@
 
 Hello there, I'm alexcoder04, a hobbyist open-source programmer.
 
-Currently I have a lot of other things to do, so I'm doing not a lot of programming. But I'm still here )
+Focusing on what's really important 💫
 
 ---
 
@@ -15,8 +15,6 @@ Currently I have a lot of other things to do, so I'm doing not a lot of programm
  - **Website:** [alexcoder04.github.io](https://alexcoder04.github.io/)
  - **Secondary Account:** [@ac04-dump](https://github.com/ac04-dump)
  - **GitLab:** [@alexcoder04](https://gitlab.com/alexcoder04)
- - **Lemmy:** [@alexcoder04@programming.dev](https://programming.dev/u/alexcoder04)
- - **Discord:** [@alexcoder04](https://discordapp.com/users/916385283338022912)
 
 ---
 
