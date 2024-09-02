@@ -1,7 +1,5 @@
 
-Hello there, I'm alexcoder04, a hobbyist open-source programmer.
-
-Focusing on what's really important 💫
+Hello there, I'm alexcoder04, a hobbyist open-source programmer currently studying electrical engineering.
 
 ---
 
